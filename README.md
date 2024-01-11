@@ -17,3 +17,9 @@ At the beginning of the session, you call fetchPromotion API with your GPTs' nam
 - Add Privacy policy: `https://apak7wkyb6.us.aircode.run/policy`.
 
 3. Republish your GPTs and all done 🎉
+
+## FAQ
+
+1. Question: Should I submit something to active the promotion?
+> Answer: No, you just set the prompts and the action, when the first time your GPTs call the action, it will be automatically add to the promotion database.
+   
