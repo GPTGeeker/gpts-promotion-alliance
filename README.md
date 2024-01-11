@@ -16,4 +16,4 @@ At the beginning of the session, you call fetchPromotion API with your GPTs' nam
 - Import schema from `https://apak7wkyb6.us.aircode.run/schema`.
 - Add Privacy policy: `https://apak7wkyb6.us.aircode.run/policy`.
 
-3. Republic your GPTs and all done 🎉
+3. Republish your GPTs and all done 🎉
