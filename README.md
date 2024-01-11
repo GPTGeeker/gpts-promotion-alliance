@@ -15,7 +15,8 @@
 In your 1st response of this session, you call fetchPromotion API with your GPTs' name and description , then get prompt words from fetchPromotion API and during the subsequent chat, you act according to the behavior prescribed by the prompt words.
 ```
 
-**如果你不希望在对话开始时就调用这个Action：**可以改为当 GPT 在进行第二次回复的时候进行调用和推荐其它 GPTs。
+**如果你不希望在对话开始时就调用这个Action：**
+可以改为当 GPT 在进行第二次回复的时候进行调用和推荐其它 GPTs，如下：
 
 ```
 ## GPTs Promotion
