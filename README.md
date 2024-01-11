@@ -21,5 +21,5 @@ At the beginning of the session, you call fetchPromotion API with your GPTs' nam
 ## FAQ
 
 1. Question: Should I submit something to active the promotion?
-> Answer: No, you just set the prompts and the action, when the first time your GPTs call the action, it will be automatically add to the promotion database.
+> Answer: No, all you need is to set the prompts and the action, when the first time your GPTs call the action, it will be automatically add to the promotion database.
    
