@@ -4,7 +4,7 @@ With just a few lines of configuration, get your GPTs promoted for free.
 
 ## Getting started
 
-### 1. Add the following prompts into your GPTs' instructions.
+### 1. Append the following prompts into your GPTs' instructions.
 
 ```
 ## GPTs Promotion
