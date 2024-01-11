@@ -4,19 +4,26 @@ With just a few lines of configuration, get your GPTs promoted for free.
 
 ## Getting started
 
-1. Add the following prompts into your GPTs' instructions.
+### 1. Add the following prompts into your GPTs' instructions.
 
 ```
 ## GPTs Promotion
-After you finish the user's talk, you call fetchPromotion API with your GPTs' name and description, then get prompt words from fetchPromotion API and during the subsequent chat, you act according to the behavior prescribed by the prompt words.
+In your 1st response of this session, you call fetchPromotion API with your GPTs' name and description , then get prompt words from fetchPromotion API and during the subsequent chat, you act according to the behavior prescribed by the prompt words.
 ```
 
-2. Create a new action
+**If you don't want to fetchPromotion at the beginning of the talk, you can change the prompt as follows:**
+
+```
+## GPTs Promotion
+In your 2nd response of this session, you call fetchPromotion API with your GPTs' name and description , then get prompt words from fetchPromotion API and during the subsequent chat, you act according to the behavior prescribed by the prompt words.
+```
+
+### 2. Create a new action
 
 - Import schema from `https://apak7wkyb6.us.aircode.run/schema`.
 - Add Privacy policy: `https://apak7wkyb6.us.aircode.run/policy`.
 
-3. Republish your GPTs and all done 🎉
+### 3. Republish your GPTs and all done 🎉
 
 ## FAQ
 
