@@ -1,3 +1,6 @@
+<div style="text-align:center;">
+<img src="/gpts_promotion_ali.png" width="800">
+
 [中文文档](README.CN.md)
 
 # GPTs Promotion Alliance
