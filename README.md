@@ -7,6 +7,8 @@
 
 With just a few lines of configuration, get your GPTs promoted for free.
 
+If you want earn revenue from your GPTs with ads,use [Adintelli](https://adintelli.ai) instead it.
+
 ## Getting started
 
 ### 1. Append the following prompts into your GPTs' instructions.
